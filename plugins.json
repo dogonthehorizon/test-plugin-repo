@@ -8,7 +8,7 @@
             "date": "2021-03-09T17:30:00.948341Z",
             "requires": "deck>=0.0.0",
             "sha512sum": "a91cb7d412a25ca5e1b2d72e14ab499986d5773ae8016721fbefd0adf430e33b75e8e61bac92244bbbe4811f118724ec6e2bb568fdd8181a9e11327a96b45da9",
-            "url": "https://armory-ffreire-dev.s3.us-west-2.amazonaws.com/test-plugin-v0.1.0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQLXGLAHZF3SSXZQL%2F20210309%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210309T174534Z&X-Amz-Expires=6000&X-Amz-SignedHeaders=host&X-Amz-Security-Token=FwoGZXIvYXdzEEsaDNuoLTNsV%2FKwMhZnyCL3ARoVOPP9uFlCIU9hnnA0UVVSOjur%2FsKtvfkQV6RI64f7NOZxG2wiYOdsNiBRMXMa1CAQcor6Zrg6dnlSMSza%2Fds9TMZZhlgAkihnAJnxjlnvNWoaBT%2F1Tr08AwlSu2CB9rVAH%2FQ3%2FO03hsya1t1OcmMIqCZvdsf1u32s7Onjlb6L%2BvuFHCewIhy9TrOpr5fBFjCXOvqyGM6sX0ZvoD4PLnUMjLXObDg2V4i%2F0oRrWc4K07wNe2V3ROK2xONdaefDUq2DuvzWoZY479s7DepcStenm3GcrN5OMpjKry8lh4Wx8kDU%2FLvoRe4Yo3ruzh%2BvbO7lesS24w8o5%2BeeggYyK%2BsjV6mk9Onb7wuBkQ1vv4%2BsmwZjU3xD2dr84sGKpprJgv8PNiv6XzHMzXk%3D&X-Amz-Signature=63a85e15144a1487932a88b7e342f57536ac8860d1c8e115258e3c7901e82c9d"
+            "url": "https://github.com/dogonthehorizon/test-plugin-repo/blob/master/test-plugin-v0.1.0.zip?raw=true"
         }
     ]
 }
