@@ -5,7 +5,7 @@
     "provider": "https://github.com/armory-plugins",
     "releases": [
       {
-        "version": "v0.1.0",
+        "version": "0.1.0",
         "date": "2021-03-09T17:30:00.948341Z",
         "requires": "deck>=0.0.0",
         "sha512sum": "a91cb7d412a25ca5e1b2d72e14ab499986d5773ae8016721fbefd0adf430e33b75e8e61bac92244bbbe4811f118724ec6e2bb568fdd8181a9e11327a96b45da9",
